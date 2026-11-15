@@ -1,0 +1,3 @@
+/home/e/Documents/repo/cko/15.11/templates-hw2/build/CMakeFiles/templates_hw2.dir
+/home/e/Documents/repo/cko/15.11/templates-hw2/build/CMakeFiles/edit_cache.dir
+/home/e/Documents/repo/cko/15.11/templates-hw2/build/CMakeFiles/rebuild_cache.dir
